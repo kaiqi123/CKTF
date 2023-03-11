@@ -25,8 +25,9 @@ We implemented CKTF on PyTorch version 1.9.0 and CUDA 11.2, and conducted experi
 
 ## Citation
 
-If you find this repo useful for your research, please consider citing the paper
+If you find this repo is useful for your research, please consider citing the paper.
 
 ## Reference
 
 Tian, Yonglong, Dilip Krishnan, and Phillip Isola. "Contrastive Representation Distillation." International Conference on Learning Representations.
+
