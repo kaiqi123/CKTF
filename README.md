@@ -1,10 +1,8 @@
 # RepDistiller
 
-This repo:
+This repo implements the ICASSP 2023 paper:
 
-**(1) covers the implementation of the following ICLR 2020 paper:**
-
-"Contrastive Representation Distillation" (CRD). [Paper](http://arxiv.org/abs/1910.10699), [Project Page](http://hobbitlong.github.io/CRD/).
+"A Contrastive Knowledge Transfer Framework for Model Compression and Transfer Learning" (termed CKTF). 
 
 <div style="text-align:center"><img src="http://hobbitlong.github.io/CRD/CRD_files/teaser.jpg" width="85%" height="85%"></div>  
 
