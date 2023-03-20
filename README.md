@@ -1,8 +1,10 @@
 # Contrastive Knowledge Transfer Framework (CKTF)
 
-This repo implements the ICASSP 2023 paper:
+This repo implements the paper published in ICASSP 2023 (Oral):
 
 "A Contrastive Knowledge Transfer Framework for Model Compression and Transfer Learning" (termed CKTF). 
+
+The link of the paper is: https://arxiv.org/pdf/2303.07599.pdf.
 
 
 ## Installation
@@ -25,7 +27,15 @@ We implemented CKTF on PyTorch version 1.9.0 and CUDA 11.2, and conducted experi
 
 ## Citation
 
-If you find this repo is useful for your research, please consider citing the paper.
+If you find out that this repo is helpful for your research, please consider citing the paper:
+```
+@article{zhao2023contrastive,
+  title={A Contrastive Knowledge Transfer Framework for Model Compression and Transfer Learning},
+  author={Zhao, Kaiqi and Chen, Yitao and Zhao, Ming},
+  journal={arXiv preprint arXiv:2303.07599},
+  year={2023}
+}
+```
 
 ## Reference
 
