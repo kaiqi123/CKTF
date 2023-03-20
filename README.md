@@ -1,11 +1,12 @@
 # Contrastive Knowledge Transfer Framework (CKTF)
 
-This repo implements the paper published in ICASSP 2023 (Oral):
+This repo implements the paper published in **ICASSP 2023 (Oral)**:
 
-"A Contrastive Knowledge Transfer Framework for Model Compression and Transfer Learning" (termed CKTF). 
+**A Contrastive Knowledge Transfer Framework for Model Compression and Transfer Learning** (termed CKTF)
 
 The link of the paper is: https://arxiv.org/pdf/2303.07599.pdf.
 
+![Workflow of CKTF](https://myoctocat.com/assets/images/base-octocat.svg)
 
 ## Installation
 We implemented CKTF on PyTorch version 1.9.0 and CUDA 11.2, and conducted experiments on 4 Nvidia RTX 2080 Ti GPUs.
