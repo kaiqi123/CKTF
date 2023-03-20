@@ -27,7 +27,7 @@ We implemented CKTF on PyTorch version 1.9.0 and CUDA 11.2, and conducted experi
 
 ## Citation
 
-If you find out that this repo is helpful for your research, please consider citing the paper:
+If you think this repo is helpful for your research, please consider citing the paper:
 ```
 @article{zhao2023contrastive,
   title={A Contrastive Knowledge Transfer Framework for Model Compression and Transfer Learning},
