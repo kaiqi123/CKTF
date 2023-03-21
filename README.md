@@ -87,6 +87,9 @@ We implemented CKTF on PyTorch version 1.9.0 and CUDA 11.2, and conducted experi
 
 - T:ResNet-18/S:ResNet-18
 
+![T:ResNet-18/S:ResNet-18](https://github.com/kaiqi123/CKTF/blob/b45b3abdc4e36d6dc880fed0bac2c188cfa7db9e/images/overall_resnet18_resnet18.eps)
+
+
 
 
 ## Citation
