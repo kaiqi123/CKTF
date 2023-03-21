@@ -81,11 +81,11 @@ We implemented CKTF on PyTorch version 1.9.0 and CUDA 11.2, and conducted experi
 
 3. Top-1 test accuracy (%) of KD, CRD, and CKTF on STL-10 when transferring knowledge from Tiny-ImageNet.
 
-(1) T:VGG-19/S:VGG-19
+- T:VGG-19/S:VGG-19
 
-(2) T:VGG-19/S:VGG-8
+- T:VGG-19/S:VGG-8
 
-(3) T:ResNet-18/S:ResNet-18
+- T:ResNet-18/S:ResNet-18
 
 
 
