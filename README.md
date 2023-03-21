@@ -31,7 +31,7 @@ We implemented CKTF on PyTorch version 1.9.0 and CUDA 11.2, and conducted experi
 
 1. Top-1 test accuracy (\%) on CIFAR-100.
 
-|  Teacher Student  | WRN-40-2 WRN-16-2 | WRN-40-2 WRN-40-1 | ResNet-56 ResNet-20 | ResNet-110 ResNet-20 | ResNet-110 ResNet-32 | ResNet-32X4 ResNet-8 X4 | VGG-13 VGG-8 |
+|  Teacher /Student  | WRN-40-2 /WRN-16-2 | WRN-40-2 /WRN-40-1 | ResNet-56 /ResNet-20 | ResNet-110 /ResNet-20 | ResNet-110 /ResNet-32 | ResNet-32X4 /ResNet-8 X4 | VGG-13 /VGG-8 |
 |:-----------------:|:-----------------:|:-----------------:|:-------------------:|:--------------------:|:--------------------:|:-----------------------:|:------------:|
 | Compression Ratio | 3.21              | 3.96              | 3.1                 | 6.24                 | 3.67                 | 6.03                    | 2.39         |
 | Teacher           | 75.61             | 75.61             | 72.34               | 74.31                | 74.31                | 79.42                   | 74.64        |
