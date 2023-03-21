@@ -6,7 +6,9 @@ This repo implements the paper published in **ICASSP 2023 (Oral)**:
 
 The link of the paper is: https://arxiv.org/pdf/2303.07599.pdf.
 
-![Workflow of CKTF]()
+The overall workflow of CKTF is as follows:
+
+![Workflow of CKTF](https://github.com/kaiqi123/CKTF/blob/680d36c14375e3b0b6469cd85da052dc09698349/CKTF_pattern.png)
 
 ## Installation
 We implemented CKTF on PyTorch version 1.9.0 and CUDA 11.2, and conducted experiments on 4 Nvidia RTX 2080 Ti GPUs.
